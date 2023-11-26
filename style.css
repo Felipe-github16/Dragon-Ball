@@ -1,0 +1,20 @@
+body {
+	background-image: url("https://moewalls.com/wp-content/uploads/2023/11/goku-meditating-super-saiyan-4-dragon-ball-thumb.jpg");
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 100vh;
+	margin: 0;
+}
+
+div {
+	color: #000000;
+	font-family: Arial;
+	padding: 25px;
+	background-color: rgba(255, 255, 255, 0.5);
+	background-position: right;
+	width: 35%;
+	margin-left: 30px;
+	margin-top: 30px;
+	height: 50vh;
+}
